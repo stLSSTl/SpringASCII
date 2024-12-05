@@ -1,0 +1,4 @@
+builds:
+  - tag: main-SNAPSHOT
+    commands:
+      - mvn clean install
