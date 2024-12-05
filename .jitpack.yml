@@ -2,3 +2,6 @@ builds:
   - tag: main-SNAPSHOT
     commands:
       - mvn clean install
+
+jdk:
+  - openjdk17
